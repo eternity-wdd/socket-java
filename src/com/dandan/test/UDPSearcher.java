@@ -69,7 +69,6 @@ public class UDPSearcher {
 	// 接收信息的端口
 	private static final int LISTEN_PORT = 30000;
 	
-
 	public static void main(String[] args) throws IOException, InterruptedException {
 		System.out.println("UDPSearcherer Started.");
 		
